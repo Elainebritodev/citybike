@@ -16,7 +16,7 @@ Pessoas que desejam utilizar bicicletas como meio de transporte.
 
 ## INSTALAÇÃO LOCAL
 
-• Em qualquer navegador do seu computador acesse o link:https://elainebritodev.github.io/Projeto1/
+• Em qualquer navegador do seu computador acesse o link:https://github.com/Elainebritodev/citybike
 
 ## COMANDO PARA RODAR
 
