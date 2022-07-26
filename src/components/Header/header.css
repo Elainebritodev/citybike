@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  padding: 0rem 0;
+  background-color: #21621f;
+  border-bottom: 4px solid #ff8711;
+  color: #fff;
+}
+
+.logoTransparente {
+  width: 120px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  width: 120px;
+  height: 90px;
+}
+
+h1 {
+  text-align: left;
+}
+
+.right {
+  margin-left: 950px;
+  text-align: 20px;
+  padding-top: -20px;
+}
+
+.select {
+  margin-bottom: 15px;
+  width: 100px;
+  height: 25px;
+}
