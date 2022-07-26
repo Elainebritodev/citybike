@@ -12,7 +12,7 @@ API MAP: https://cloud.maptiler.com/maps/streets/
 
 ## A QUEM SE DESTINA - OBJETIVO
 
-Pessoas que desejam utilizar bicicletas como meio de transporte.
+Pessoas que desejam utilizar bicicletas para deslocamentos dentro das cidade.
 
 ## INSTALAÇÃO LOCAL
 
